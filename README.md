@@ -7,7 +7,7 @@ Table of Contents
 2. Usage Guide
 3. Results/Recommendations
 
-Data, Requests, and Tools Used
+Data, Requests, and Tools:
 The dataset and requests for this analysis were provided by CodeBasics. The following tools were used to conduct the analysis:
 PostgreSQL: Used to analyze the data and generate insights.
 Power BI: Utilized to create a visual dashboard for data analysis.
