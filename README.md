@@ -10,7 +10,6 @@ Table of Contents
 Data, Requests, and Tools
 
 The dataset and requests for this analysis were provided by CodeBasics. The following tools were used to conduct the analysis:
-
 - PostgreSQL: Used to analyze the data and generate insights.
 - Power BI: Utilized to create a visual dashboard for data analysis.
 - PowerPoint: Used to create presentation slides for showcasing the analysis results.
@@ -27,6 +26,7 @@ To effectively use this project, follow the steps below:
 - Create informative and visually appealing slides to present the analysis.
 
 Results/Recommendations
+
 Based on the analysis conducted, the following results and recommendations are made:
 - Target Audience: The primary target audience should consist of males aged 15-45 years.
 - Focus Areas: Concentrate on major cities in tier 1 and 2, such as Bangalore, Mumbai, Hyderabad, Chennai, Delhi, Pune, and Kolkata.
