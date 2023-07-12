@@ -20,6 +20,7 @@ PowerPoint: Used to create presentation slides for showcasing the analysis resul
 Adobe Photoshop: Employed to design product images for the presentation.
 
 Usage Guide
+
 To effectively use this project, follow the steps below:
 - Familiarize yourself with the provided data and survey questions.
 - Use PostgreSQL to solve the requests and queries related to the dataset.
