@@ -11,13 +11,10 @@ Data, Requests, and Tools
 
 The dataset and requests for this analysis were provided by CodeBasics. The following tools were used to conduct the analysis:
 
-PostgreSQL: Used to analyze the data and generate insights.
-
-Power BI: Utilized to create a visual dashboard for data analysis.
-
-PowerPoint: Used to create presentation slides for showcasing the analysis results.
-
-Adobe Photoshop: Employed to design product images for the presentation.
+- PostgreSQL: Used to analyze the data and generate insights.
+- Power BI: Utilized to create a visual dashboard for data analysis.
+- PowerPoint: Used to create presentation slides for showcasing the analysis results.
+- Adobe Photoshop: Employed to design product images for the presentation.
 
 Usage Guide
 
